@@ -1,4 +1,3 @@
 # soundish
 
-概要
 
